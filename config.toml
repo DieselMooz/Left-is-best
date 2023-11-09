@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "/"
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
@@ -35,7 +35,7 @@ theme = "hugo-initio"
     weight = 1
 [[menu.main]]
     name = "blog"
-    url = "/post/"
+    url = "/blog/"
     weight = 5
 
 [params.disqus]
