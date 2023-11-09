@@ -23,7 +23,20 @@
 **Libraries:** jQuery  
 **Designer:** Sergey Pozhilov  
 
+## Installation
+
+```
+$ cd /<your-hugo-site-directory>
+$ git submodule add https://github.com/miguelsimoni/hugo-initio.git themes/hugo-initio
+```
+
+More info: [hugo setup guide](https://gohugo.io/overview/installing/)
+
 ## Configuration
+
+[Live Demo](https://miguelsimoni.github.io/hugo-initio-site/)
+
+[Example Site](https://github.com/miguelsimoni/hugo-initio/tree/master/exampleSite)
 
 [config.toml](https://github.com/miguelsimoni/hugo-initio/tree/master/exampleSite/config.toml)
 
@@ -96,6 +109,19 @@ $ hugo server -t ../..
 ```
 
 Now enter [`http://localhost:1313/`](http://localhost:1313/) in the address bar of your browser.
+
+## Deployment
+
+- [Hosting on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+- [More hosting and deployment options](https://gohugo.io/hosting-and-deployment/)
+
+## Contributing
+
+- Found a bug?
+- Got an idea for a new feature?
+
+Let me know it using the [issue tracker](https://github.com/miguelsimoni/hugo-initio/issues).
+Or make it directly: [pull request](https://github.com/miguelsimoni/hugo-initio/pulls).
 
 ## License
 
