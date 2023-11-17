@@ -1,10 +1,10 @@
 baseURL = "/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Welcome to Wellbeing Consultants"
 theme = "hugo-initio"
 
 [params]
-    name = "Anthony Russel"
+    name = "Delta 88"
     description = "A mystery person"
     email = "anthony.russel42@example.com"
     phone = "+234 23 9873237"
